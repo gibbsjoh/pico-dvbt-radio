@@ -1,5 +1,5 @@
 # functions for 2 line i2c LCD
-# Uses the lcd_api and associated bits from https://github.com/dhylands/python_lcd
+# Uses circuitpython_i2c_lcd
 
 import board
 import busio
