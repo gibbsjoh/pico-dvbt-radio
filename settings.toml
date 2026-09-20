@@ -1,0 +1,10 @@
+# enable/disable functions
+rainbowWheelToggle = 1
+autoPlayOnStartup = 1
+autoGoToNext = 1
+playbackMode = "sequential" # sequential or shuffle
+overClock = 1
+overClockSettingHz = 150000000
+CIRCUITPY_WIFI_SSID = "my-wifi-ssid"
+CIRCUITPY_WIFI_PASSWORD = "my-wifi-pass"
+
